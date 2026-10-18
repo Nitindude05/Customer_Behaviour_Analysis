@@ -232,5 +232,5 @@ repository.
 
 ## Author
 
-**Your Name**\
+Nitin Khasdeo
 Data Analytics Project \| Python · SQL · Power BI
